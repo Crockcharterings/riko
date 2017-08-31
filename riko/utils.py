@@ -33,7 +33,7 @@ from builtins import *  # noqa # pylint: disable=unused-import
 from mezmorize import memoize
 from meza.io import reencode
 from meza.compat import decode
-from meza.fntools import SleepyDict, dfilter
+from meza.fntools import SleepyDict
 from riko import ENCODING
 from riko.cast import cast
 
